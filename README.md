@@ -1,5 +1,7 @@
 # LTR Demo for enagement data (clicks)
 
+Tested on `Python 3.10.16`
+
 ## Push data to Elasticsearch (index=bollywood-movies)
 
 ```sh
