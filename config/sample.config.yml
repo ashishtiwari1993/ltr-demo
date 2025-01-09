@@ -1,0 +1,6 @@
+elastic:
+  cloud_id: "elastic_cloud_id"
+  api_key: "elastic_api_key"
+  index_name: "bollywood-movies"
+  judgement_list_filename: "judgement_list.csv"
+  model_id: "ltr-model-xgboost-movies"
